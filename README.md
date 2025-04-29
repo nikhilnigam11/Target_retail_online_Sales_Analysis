@@ -1,6 +1,7 @@
 # Target_retail_online_Sales_Analysis
 Target_retail_online_Sales_Analysis
-#SQL-based EDA on Target Retail Dataset
+
+# SQL-based EDA on Target Retail Dataset
 
 This README provides a summary of the Exploratory Data Analysis (EDA) conducted on the Target Retail dataset using SQL, as part of Task 6 at Elevate Labs.
 
